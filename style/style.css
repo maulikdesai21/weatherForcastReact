@@ -1,0 +1,39 @@
+
+html{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background: url(./nyc.jpg ) no-repeat;
+    background-size: 100%;
+}
+body{
+    background-color: transparent !important;
+}
+.with80{
+    width: 80%;
+    margin:auto;
+}
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
+.height80{ min-height: 800px}
+.backgroundwhite {background: white}
+.margintop80 {margin-top: 80px;
+    padding: 10px;
+    border-radius: 21px;}
